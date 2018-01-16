@@ -16,7 +16,8 @@ const exchangeModules = [
 	'bittrex',
 	'kraken',
 	'liqui',
-	'poloniex'
+	'poloniex'/*,
+	'coinbase'*/
 ];
 
 class Coinx {
